@@ -24,6 +24,3 @@ The **Pump.fun Smart Contract** is an innovative platform  designed to allow use
    anchor deploy
    ```
 
-### Please fork to use it and follow me on github.
-
-### If you want more customized app, please contact [@s0lb0t](https://t.me/matijawork) in Telegram
